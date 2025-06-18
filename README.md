@@ -41,6 +41,10 @@ Chatbot: Bye-bye! 👋 Don't forget me... or do, I'm used to it 😪
 ```
 
 ---
+# screenshot
+
+![screenshot](IMG_20250618_231513.jpg)
+---
 
 # ❓ Suggested Questions
 
@@ -97,20 +101,6 @@ Girish Mohakar
 🔗 linkden: https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 🔗 e-mail : girishmohakarentc@gmail.com
-
-
----
-
-🧠 Pro Tip
-
-This chatbot won't judge you... much. Use it to:
-
-Practice string handling in C
-
-Learn time and date manipulation
-
-Build a chatbot with personality
-
 
 ---
 
