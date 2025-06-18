@@ -92,14 +92,7 @@ add more human like chat options
 
 Girish Mohakar
 
-
-🔗 GitHub : 
-
-
-3. Run it:
-
-./chatbot
-
+🔗 GitHub : https://github.com/dashboard
 
 🔗 linkden: https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
