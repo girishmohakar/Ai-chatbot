@@ -92,7 +92,7 @@ add more human like chat options
 
 ---
 
-🧑‍💻 Created By
+# 🧑‍💻 Created By
 
 Girish Mohakar
 
