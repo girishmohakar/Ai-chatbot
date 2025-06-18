@@ -15,27 +15,6 @@ Powered by `stdio.h`, `string.h`, `time.h`... and a *whole lot of attitude*.
 
 ---
 
-## ⚙️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/c-chatbot.git
-   cd c-chatbot
-
-2. Compile the program:
-
-gcc chatbot.c -o chatbot
-
-
-3. Run it:
-
-./chatbot
-
-
-
-
----
-
 # 💻 Sample Output
 ```bash
 Welcome to C Chatbot! 🎉 Type 'bye' to escape or 'calc' to do brainy stuff 🧠
@@ -115,6 +94,12 @@ Girish Mohakar
 
 
 🔗 GitHub : 
+
+
+3. Run it:
+
+./chatbot
+
 
 🔗 linkden: https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
